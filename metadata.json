@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma Movistar",
+  "description": "Una aplicación web de Movistar con inicio, servicios, blog, panel de administración y chatbot AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
